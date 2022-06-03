@@ -1,5 +1,3 @@
-# FALLABOUT-SRMMIC 21
-
 # POETRY-GENERATION
 ## HINGLISH
 
@@ -58,7 +56,3 @@
  # Future works
   1. Planning on including a translator to slide easily between languages.
   2. Introduce more poet based model in many languages.  
-
-# Authors
- 1. Paras Rawat
- 2. Daketi Yatin
